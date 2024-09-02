@@ -10,9 +10,9 @@ url = : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud The dataset used
 '0' denotes legitimate transactions
 '1' represents fraudulent transactions
 # Key Objectives
-Develop and implement a machine learning model for early fraud detection.
-Achieve real-time fraud prediction to enable swift intervention.
-Enhance the bank's ability to prevent fraudulent transactions, safeguarding customers' finances.
+   Develop and implement a machine learning model for early fraud detection.
+   Achieve real-time fraud prediction to enable swift intervention.
+   Enhance the bank's ability to prevent fraudulent transactions, safeguarding customers' finances.
 # Project Structure
 data/: Contains the dataset used for model training.
 notebooks/: Jupyter notebooks used for data analysis, model development, and evaluation.
